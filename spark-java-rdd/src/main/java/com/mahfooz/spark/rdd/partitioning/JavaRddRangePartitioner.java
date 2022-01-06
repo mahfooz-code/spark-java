@@ -58,6 +58,7 @@ public class JavaRddRangePartitioner {
             RDD<Tuple2<Integer, String>> rdd = JavaPairRDD.toRDD(pairRdd);
 
             // Range Partitioner
+            @SuppressWarnings({ "unchecked", "raw" })
             RangePartitioner<Integer, String> rangePartitioner = new RangePartitioner(4,
                     rdd,
                     true, scala.math.Ordering.Int$.MODULE$,
