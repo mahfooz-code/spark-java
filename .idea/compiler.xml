@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spark-java-rdd" />
+        <module name="spark-java-dataframe" />
+        <module name="spark-streaming-kafka" />
+        <module name="spark-java-sql" />
+        <module name="spark-java-dataset" />
+        <module name="spark-udf" />
+        <module name="spark-hive" />
+        <module name="spark-job-config" />
+        <module name="spark-running-java" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spark-hive" target="1.8" />
+      <module name="spark-java-dataframe" target="1.8" />
+      <module name="spark-java-dataset" target="1.8" />
+      <module name="spark-java-rdd" target="1.8" />
+      <module name="spark-java-sql" target="1.8" />
+      <module name="spark-job-config" target="1.8" />
+      <module name="spark-running-java" target="1.8" />
+      <module name="spark-streaming-kafka" target="1.8" />
+      <module name="spark-udf" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

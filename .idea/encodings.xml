@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spark-hive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-java-dataframe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-java-rdd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-java-rdd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-java-sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-job-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-running-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-streaming-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark-udf/src/main/java" charset="UTF-8" />
+  </component>
+</project>

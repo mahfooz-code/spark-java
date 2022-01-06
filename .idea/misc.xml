@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spark-udf/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-hive/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-java-rdd/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-java-sql/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-job-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-java-dataset/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-running-java/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-java-dataframe/pom.xml" />
+        <option value="$PROJECT_DIR$/spark-streaming-kafka/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="true" project-jdk-name="12" project-jdk-type="JavaSDK" />
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

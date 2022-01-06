@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark-hive/spark-hive.iml" filepath="$PROJECT_DIR$/spark-hive/spark-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark-java.iml" filepath="$PROJECT_DIR$/.idea/spark-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-java-dataframe/spark-java-dataframe.iml" filepath="$PROJECT_DIR$/spark-java-dataframe/spark-java-dataframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-java-dataset/spark-java-dataset.iml" filepath="$PROJECT_DIR$/spark-java-dataset/spark-java-dataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-java-rdd/spark-java-rdd.iml" filepath="$PROJECT_DIR$/spark-java-rdd/spark-java-rdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-java-sql/spark-java-sql.iml" filepath="$PROJECT_DIR$/spark-java-sql/spark-java-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-job-config/spark-job-config.iml" filepath="$PROJECT_DIR$/spark-job-config/spark-job-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-running-java/spark-running-java.iml" filepath="$PROJECT_DIR$/spark-running-java/spark-running-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-streaming-kafka/spark-streaming-kafka.iml" filepath="$PROJECT_DIR$/spark-streaming-kafka/spark-streaming-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-udf/spark-udf.iml" filepath="$PROJECT_DIR$/spark-udf/spark-udf.iml" />
+    </modules>
+  </component>
+</project>
